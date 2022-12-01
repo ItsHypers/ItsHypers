@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [The Oden Project Ruby on Rails](https://github.com/ItsHypers)
 
-- 🌱 I’m currently learning **Ruby, Ruby on Rails, Javascript (The Oden Project)**
+- 🌱 I’m currently learning **Ruby, Ruby on Rails, Javascript (The Oien Project)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ItsHypers](https://github.com/ItsHypers)
 
