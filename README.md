@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ryan Thomas</h1>
+<h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A Passionate Web Developer, from the United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itshypers&label=Profile%20views&color=0e75b6&style=flat" alt="itshypers" /> </p>
@@ -12,8 +12,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ItsHypers](https://github.com/ItsHypers)
 
 - 💬 Ask me about **HTML, CSS, C#, Python, Unity**
-
-- 📫 How to reach me **ryanathomas013@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/ItsHypers](https://github.com/ItsHypers)
 
