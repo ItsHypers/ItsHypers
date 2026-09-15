@@ -5,13 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itshypers" alt="itshypers" /></a> </p>
 
-- 🔭 I’m currently working on [The Oden Project Ruby on Rails](https://github.com/ItsHypers)
-
-- 🌱 I’m currently learning **Ruby, Ruby on Rails, Javascript (The Oien Project)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ItsHypers](https://github.com/ItsHypers)
 
-- 💬 Ask me about **HTML, CSS, C#, Python, Unity**
+- 💬 **HTML, CSS, C#, Python, Unity, Node**
 
 - 📄 Know about my experiences [https://github.com/ItsHypers](https://github.com/ItsHypers)
 
